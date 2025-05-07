@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">🌟 Sriram Kommalapudi</h1>
+<h1 align="center">Sriram Kommalapudi</h1>
 <p align="center"><em>Engineering intelligent systems with purpose, precision, and a touch of curiosity.</em></p>
 
 <p align="center">
