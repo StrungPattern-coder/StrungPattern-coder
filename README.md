@@ -12,7 +12,7 @@
 
 ### 🧠 Who Am I?
 
-> 2nd-year Computer Engineering student @PICT, Pune  
+> 3rd-year Computer Engineering student @PICT, Pune  
 > Building next-gen developer tools, real-time systems, and AI-powered platforms.
 
 I craft **deeply interactive software**—from collaborative IDEs and password analyzers to intelligent matchmaking platforms. I focus on full-stack architecture with a heavy backend emphasis (FastAPI + Redis + Supabase), paired with production-grade React + TypeScript frontends.
