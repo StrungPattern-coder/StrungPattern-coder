@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **3rd-year Computer Engineering student at PICT, Pune**, building systems that feel fast, intentional, and alive.
 
@@ -22,11 +22,11 @@ I work across full-stack development with a strong emphasis on **backend archite
 
 I love creating tools and platforms where:
 
-- ⚡ performance is a feature  
-- 🔐 security is non-negotiable  
-- 🎛️ the UI feels natural and intuitive  
-- 🧩 complex systems behave simply  
-- 🎯 every decision has intent  
+- performance is a feature  
+- security is non-negotiable  
+- the UI feels natural and intuitive  
+- complex systems behave simply  
+- every decision has intent  
 
 I’m here to build software that people *want* to use — not just software that works.
 
