@@ -39,6 +39,6 @@ Languages      : C++, Python, TypeScript, JavaScript
 Frontend       : React, Next.js, Tailwind CSS  
 Backend        : FastAPI, Node.js, REST APIs, WebSockets, Celery + Redis  
 Databases      : PostgreSQL (Supabase), MongoDB  
-AI/ML          : XGBoost, TF-IDF, Scikit-learn, TensorFlow (basic), Hashcat  
-Cloud & Infra  : Supabase, Firebase, Google Cloud, Docker (basics), Vercel  
+AI/ML          : XGBoost, TF-IDF, Scikit-learn, TensorFlow  
+Cloud & Infra  : Supabase, Firebase, Google Cloud, Docker
 Dev Tools      : Git + GitHub, Postman, VS Code, Linux
