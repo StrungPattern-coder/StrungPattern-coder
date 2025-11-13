@@ -1,47 +1,44 @@
 <!-- README.md -->
 
 <h1 align="center">Sriram Kommalapudi</h1>
-<p align="center"><em>Engineering intelligent systems with purpose, precision, and a touch of curiosity.</em></p>
+<p align="center"><em>Engineering real-time systems, intelligent tools, and deeply interactive software.</em></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sriram-kommalapudi-06b29b232/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ksriram4584@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sriram-kommalapudi">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ksriram4584@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Who Am I?
+## 🧠 About Me
 
-> 3rd-year Computer Engineering student @PICT, Pune  
-> Building next-gen developer tools, real-time systems, and AI-powered platforms.
+I'm a **3rd-year Computer Engineering student at PICT, Pune**, building systems that feel fast, intentional, and alive.
 
-I craft **deeply interactive software**—from collaborative IDEs and password analyzers to intelligent matchmaking platforms. I focus on full-stack architecture with a heavy backend emphasis (FastAPI + Redis + Supabase), paired with production-grade React + TypeScript frontends.
+I work across full-stack development with a strong emphasis on **backend architecture**, **real-time interactions**, and **clean, purposeful engineering**.
 
-I believe code should feel **as intuitive as conversation** and as **secure as your thoughts**.
+I love creating tools and platforms where:
 
----
+- ⚡ performance is a feature  
+- 🔐 security is non-negotiable  
+- 🎛️ the UI feels natural and intuitive  
+- 🧩 complex systems behave simply  
+- 🎯 every decision has intent  
 
-### 🌐 Featured Platform – [Connect](https://connect-website-three.vercel.app)
-
-> Real-time professional networking + collaboration suite for developers.
-
-- 🔍 Skill-based matchmaking
-- 💻 Live collaborative IDE (VS Code–like experience)
-- 🔒 Secure team invites via **SpacePass**
-- 🧠 Hackathon aggregator with dashboard integration
-- 🌐 Built using: React, TypeScript, FastAPI, Supabase, WebSockets, Redis, Scrapy
-
-🔗 **Try it now:** [connect-website-three.vercel.app](https://connect-website-three.vercel.app)
+I’m here to build software that people *want* to use — not just software that works.
 
 ---
 
-### 🛠️ My Toolbox
+## 🛠️ Tech I Use
 
 ```ts
-Languages      :  C++, Python, TypeScript, JavaScript  
-Frontend       :  React, Tailwind CSS, HTML5, CSS3  
-Backend        :  FastAPI, REST APIs, Celery + Redis, WebSockets  
-AI/ML          :  XGBoost, TF-IDF, Scikit-learn, TensorFlow (basic), Hashcat  
-Cloud & Infra  :  Supabase, Google Cloud Console, Firebase, Docker (basics)  
-Dev Tools      :  Git + GitHub, Postman, VS Code, Linux  
-Databases      :  PostgreSQL (Supabase), NoSQL (basic)
+Languages      : C++, Python, TypeScript, JavaScript  
+Frontend       : React, Next.js, Tailwind CSS  
+Backend        : FastAPI, Node.js, REST APIs, WebSockets, Celery + Redis  
+Databases      : PostgreSQL (Supabase), MongoDB  
+AI/ML          : XGBoost, TF-IDF, Scikit-learn, TensorFlow (basic), Hashcat  
+Cloud & Infra  : Supabase, Firebase, Google Cloud, Docker (basics), Vercel  
+Dev Tools      : Git + GitHub, Postman, VS Code, Linux
